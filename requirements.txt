@@ -1,0 +1,32 @@
+# Core scientific and data manipulation
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.11.0
+
+# Machine learning & modeling (RF, XGBoost, CatBoost)
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+catboost>=1.2.0
+statsmodels>=0.14.0
+shap>=0.44.0
+
+# Serialization & validation
+joblib>=1.3.0
+pydantic>=2.5.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Web API serving
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.9
+
+# Testing & quality
+pytest>=7.4.0
+
+# Jupyter notebook ecosystem
+ipykernel>=6.28.0
+nbformat>=5.9.0
+nbclient>=0.9.0
